@@ -1,0 +1,22 @@
+AllCops:
+  Excludes:
+    - vendor/**
+
+AlignParameters:
+  Enabled: false
+Encoding:
+  Enabled: false
+HashSyntax:
+  Enabled: false
+LineLength:
+  Enabled: 100
+BlockNesting:
+  Enabled: false
+MethodLength:
+  Max: 30
+AsciiComments:
+  Enabled: false
+ParenthesesAsGroupedExpression:
+  Enabled: false
+Documentation:
+  Enabled: false
