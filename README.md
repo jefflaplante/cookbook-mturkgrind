@@ -122,4 +122,3 @@ Contributing
 License and Authors
 -------------------
 Jeff LaPlante - jeff@jefflaplante.com
-
